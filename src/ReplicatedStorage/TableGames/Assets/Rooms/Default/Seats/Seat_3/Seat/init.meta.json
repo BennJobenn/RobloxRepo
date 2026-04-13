@@ -1,0 +1,16 @@
+{
+  "className": "Seat",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [-254.5833, 8.0053, 7.7035, 1.0, 0, 0, 0, 1, 0, 0, 0, 1.0],
+    "Color": [86, 36, 36],
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "RightSurface": "SmoothNoOutlines",
+    "Size": [1.1328, 0.0373, 1.1402],
+    "TopSurface": "SmoothNoOutlines",
+    "Transparency": 1
+  }
+}

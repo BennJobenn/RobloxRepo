@@ -1,0 +1,17 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [25.2632, 66.2381, -1.3536, 0, 0, 1, -1, 0, 0, 0, -1, 0],
+    "Color": [129, 83, 45],
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "RoofShingles",
+    "RightSurface": "SmoothNoOutlines",
+    "Shape": "Cylinder",
+    "Size": [0.549, 11.8951, 11.8951],
+    "TopSurface": "SmoothNoOutlines"
+  }
+}

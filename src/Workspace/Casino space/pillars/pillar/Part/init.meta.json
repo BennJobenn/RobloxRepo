@@ -1,0 +1,11 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [142.3499, 67.9647, 88.0833, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "Material": "Pavement",
+    "Size": [10.6393, 1.6368, 10.6393],
+    "TopSurface": "Smooth"
+  }
+}

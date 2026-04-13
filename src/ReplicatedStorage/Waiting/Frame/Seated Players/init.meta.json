@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AutomaticSize": "Y",
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.3657, 0.0], [0.4973, 0.0]],
+    "Size": [[0.2719, 0.0], [0.048, 0.0]],
+    "Text": "Seated_Players",
+    "TextColor3": [0.9709, 0.9709, 0.9709],
+    "TextScaled": true,
+    "TextSize": 32,
+    "TextWrapped": true,
+    "TextYAlignment": "Top"
+  }
+}

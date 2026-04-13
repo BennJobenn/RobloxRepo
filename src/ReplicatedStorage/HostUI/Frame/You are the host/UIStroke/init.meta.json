@@ -1,0 +1,8 @@
+{
+  "className": "UIStroke",
+  "properties": {
+    "LineJoinMode": "Miter",
+    "StrokeSizingMode": "ScaledSize",
+    "Thickness": 0.06
+  }
+}

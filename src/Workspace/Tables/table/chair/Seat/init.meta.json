@@ -1,0 +1,14 @@
+{
+  "className": "Seat",
+  "properties": {
+    "Anchored": true,
+    "BottomSurface": "Smooth",
+    "CFrame": [121.3667, 14.239, 57.2131, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Size": [2.3221, 0.8305, 1.6611],
+    "TopSurface": "Smooth",
+    "Transparency": 1
+  }
+}

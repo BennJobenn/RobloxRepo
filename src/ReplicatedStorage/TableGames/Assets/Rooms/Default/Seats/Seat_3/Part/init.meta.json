@@ -1,0 +1,18 @@
+{
+  "className": "Part",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [-255.4595, 7.8958, 8.1557, 0, 1.0, 0, 0.342, 0, 0.9397, 0.9397, 0, -0.342],
+    "CanCollide": false,
+    "Color": [17, 17, 17],
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "Wood",
+    "Reflectance": 0.1,
+    "RightSurface": "SmoothNoOutlines",
+    "Size": [0.0373, 0.0373, 0.1565],
+    "TopSurface": "SmoothNoOutlines"
+  }
+}

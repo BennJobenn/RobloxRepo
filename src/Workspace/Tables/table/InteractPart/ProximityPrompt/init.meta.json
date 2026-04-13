@@ -1,0 +1,8 @@
+{
+  "className": "ProximityPrompt",
+  "properties": {
+    "ActionText": "Host a game",
+    "MaxActivationDistance": 15,
+    "RequiresLineOfSight": false
+  }
+}

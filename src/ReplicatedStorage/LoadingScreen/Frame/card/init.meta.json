@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.375, 0.0], [0.6833, 0.0]],
+    "Size": [[0.2495, 0.0], [0.037, 0.0]],
+    "Text": "Cards Galore!",
+    "TextColor3": [0.2302, 1, 1],
+    "TextScaled": true,
+    "TextSize": 32,
+    "TextWrapped": true,
+    "TextYAlignment": "Top"
+  }
+}

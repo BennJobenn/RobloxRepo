@@ -1,0 +1,21 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.3502, 0.0], [0.2916, 0.0]],
+    "Size": [[0.3011, 0.0], [0.0592, 0.0]],
+    "Text": "Game Type",
+    "TextColor3": [0.6074, 0.9469, 0.9469],
+    "TextScaled": true,
+    "TextSize": 40,
+    "TextWrapped": true,
+    "TextYAlignment": "Top"
+  }
+}

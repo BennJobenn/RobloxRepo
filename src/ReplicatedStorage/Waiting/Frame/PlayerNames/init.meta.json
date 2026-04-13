@@ -1,0 +1,22 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "AutomaticSize": "Y",
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0,
+    "FontFace": {
+      "family": "rbxasset://fonts/families/FredokaOne.json",
+      "weight": "Regular",
+      "style": "Normal",
+      "cachedFaceId": null
+    },
+    "Position": [[0.4316, 0.0], [0.5637, 0.0]],
+    "Size": [[0.1401, 0.0], [0.0381, 0.0]],
+    "Text": "jovennDev",
+    "TextColor3": [0.6074, 0.9469, 0.9469],
+    "TextScaled": true,
+    "TextSize": 24,
+    "TextWrapped": true,
+    "TextYAlignment": "Top"
+  }
+}

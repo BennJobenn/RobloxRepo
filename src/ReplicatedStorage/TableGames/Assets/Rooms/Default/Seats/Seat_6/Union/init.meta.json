@@ -1,0 +1,17 @@
+{
+  "className": "UnionOperation",
+  "properties": {
+    "Anchored": true,
+    "BackSurface": "SmoothNoOutlines",
+    "BottomSurface": "SmoothNoOutlines",
+    "CFrame": [-259.469, 9.9204, -3.1413, -0.7044, -0.0616, 0.7071, -0.0872, 0.9962, 0, -0.7044, -0.0616, -0.7071],
+    "Color": [117, 0, 0],
+    "FrontSurface": "SmoothNoOutlines",
+    "LeftSurface": "SmoothNoOutlines",
+    "Material": "Wood",
+    "RightSurface": "SmoothNoOutlines",
+    "Size": [0.1938, 0.4097, 1.7558],
+    "TopSurface": "SmoothNoOutlines",
+    "UsePartColor": true
+  }
+}

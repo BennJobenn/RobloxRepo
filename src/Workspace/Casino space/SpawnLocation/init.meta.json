@@ -1,0 +1,15 @@
+{
+  "className": "SpawnLocation",
+  "properties": {
+    "Anchored": true,
+    "AudioCanCollide": false,
+    "BottomSurface": "Smooth",
+    "CFrame": [70.9739, 16.6687, -87.517, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CanCollide": false,
+    "CanQuery": false,
+    "CanTouch": false,
+    "Size": [7.9783, 0.6649, 7.9783],
+    "TopSurface": "Smooth",
+    "Transparency": 1
+  }
+}

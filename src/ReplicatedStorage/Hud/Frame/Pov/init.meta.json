@@ -1,0 +1,10 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "BackgroundColor3": [0, 0, 0],
+    "BorderSizePixel": 0,
+    "Position": [[0.0, 0.0], [0.6816, 0.0]],
+    "Size": [[1.0, 0.0], [0.3456, 0.0]],
+    "Text": ""
+  }
+}
