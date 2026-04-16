@@ -3,9 +3,9 @@
   "properties": {
     "Anchored": true,
     "BottomSurface": "Smooth",
-    "CFrame": [142.3499, 67.9647, 88.0833, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+    "CFrame": [142.6928, 66.7829, -91.8725, 0, 0, 1, 0, 1, 0, -1, 0, 0],
     "Material": "Pavement",
-    "Size": [10.6393, 1.6368, 10.6393],
+    "Size": [9.8209, 0.8184, 9.8209],
     "TopSurface": "Smooth"
   }
 }

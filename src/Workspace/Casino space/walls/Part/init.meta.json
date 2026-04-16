@@ -3,8 +3,10 @@
   "properties": {
     "Anchored": true,
     "BottomSurface": "Smooth",
-    "CFrame": [72.6162, 10.7556, -1.6286, 1, 0, 0, 0, 1, 0, 0, 0, 1],
-    "Size": [153.3804, 0.8184, 193.3366],
+    "CFrame": [114.1145, 78.9908, -1.6673, 0, 0, -1, 0, 1, 0, 1, 0, 0],
+    "Color": [50, 34, 16],
+    "Material": "WoodPlanks",
+    "Size": [190.0243, 20.46, 1.6368],
     "TopSurface": "Smooth"
   }
 }

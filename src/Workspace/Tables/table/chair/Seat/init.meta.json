@@ -3,7 +3,7 @@
   "properties": {
     "Anchored": true,
     "BottomSurface": "Smooth",
-    "CFrame": [121.3667, 14.239, 57.2131, -1, 0, 0, 0, 1, 0, 0, 0, -1],
+    "CFrame": [31.7408, 14.239, 62.0182, -0.7464, 0, 0.6655, 0, 1, 0, -0.6655, 0, -0.7464],
     "CanCollide": false,
     "CanQuery": false,
     "CanTouch": false,

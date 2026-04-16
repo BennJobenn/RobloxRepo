@@ -2,9 +2,9 @@
   "className": "Texture",
   "properties": {
     "Color3": [0.5765, 0.5765, 0.5765],
-    "Face": "Back",
-    "StudsPerTileU": 16.3681,
-    "StudsPerTileV": 16.3681,
+    "Face": "Top",
+    "StudsPerTileU": 16.368,
+    "StudsPerTileV": 16.368,
     "TextureContent": "rbxassetid://8501166103"
   }
 }
